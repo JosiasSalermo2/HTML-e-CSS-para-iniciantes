@@ -9,3 +9,7 @@
 0103.  [x] 0103.  Editor de Código
 0104.  [x] 0104. Browser
 
+## 2. HTML e CSS Básico
+
+0201. [x] 0201. Tag
+
