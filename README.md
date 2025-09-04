@@ -12,4 +12,5 @@
 ## 2. HTML e CSS Básico
 
 0201. [x] 0201. Tag
+0202. [x] 0202. Tags Iniciais
 
