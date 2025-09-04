@@ -13,4 +13,5 @@
 
 0201. [x] 0201. Tag
 0202. [x] 0202. Tags Iniciais
+0203. [x] 0203. Estrutura HTML
 
